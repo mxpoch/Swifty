@@ -1,2 +1,2 @@
 # Swifty
-A cool lil drone with eyes 👀
+A cool little drone with eyes 👀
